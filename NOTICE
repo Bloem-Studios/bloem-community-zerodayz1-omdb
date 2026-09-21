@@ -1,0 +1,17 @@
+Bloem community build of silo-plugin-omdb
+
+Original author: zerodayz1 (https://github.com/zerodayz1/silo-plugin-omdb)
+Contributors: zerodayz1
+Forked from commit de348a6121eecc600c7834a9b17cc76b754ad00c. The full upstream history is preserved in this repository.
+
+All credit for this plugin's design and implementation goes to its author and
+contributors. Upstream license: none (no license file was published; the author retains their rights).
+Upstream copyright notices are unchanged.
+
+Bloem changes: the Bloem plugin SDK v0.16.1 (based on the Silo plugin SDK v0.16.1)
+instead of the Silo SDK, this fork's Go module path, catalog presentation that keeps
+the author as publisher and links the original repository, and removal of workflows
+that publish to Silo plugin catalogs. Plugin and capability identifiers and behavior
+are unchanged.
+
+Bloem and Bloem Studios are not affiliated with or endorsed by the author.

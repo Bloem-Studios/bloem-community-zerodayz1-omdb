@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"github.com/zerodayz1/silo-plugin-omdb/omdb"
+	"github.com/Bloem-Studios/bloem-community-zerodayz1-omdb/omdb"
 	"google.golang.org/protobuf/types/known/structpb"
 )
 
